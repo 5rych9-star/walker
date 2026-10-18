@@ -1,0 +1,6 @@
+{
+  "name": "日野ウォーカー - TMU Commute Chat",
+  "description": "東京都立大学日野キャンパスの学生向け通学マッチング＆リアルタイム合流チャットアプリ。安全な合流ナビと歩行ログ機能を提供します。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
